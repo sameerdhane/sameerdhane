@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Advance Java and Manual and Automation Testing**
 
-- 💬 Ask me about **Data Analytics and Data Visualization**
+- 💬 Ask me about **Java Developement And Web Developement **
 
-- 📫 How to reach me **sameerdhaneofficial@gmail.com**
+- 📫 How to reach me **sameerdhane70@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
